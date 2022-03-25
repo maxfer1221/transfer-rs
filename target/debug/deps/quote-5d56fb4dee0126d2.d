@@ -1,0 +1,13 @@
+/home/maximo/Documents/transfer-rs/target/debug/deps/quote-5d56fb4dee0126d2.rmeta: /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/lib.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/ext.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/format.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/ident_fragment.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/to_tokens.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/runtime.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/spanned.rs
+
+/home/maximo/Documents/transfer-rs/target/debug/deps/libquote-5d56fb4dee0126d2.rlib: /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/lib.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/ext.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/format.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/ident_fragment.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/to_tokens.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/runtime.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/spanned.rs
+
+/home/maximo/Documents/transfer-rs/target/debug/deps/quote-5d56fb4dee0126d2.d: /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/lib.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/ext.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/format.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/ident_fragment.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/to_tokens.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/runtime.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/spanned.rs
+
+/home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/lib.rs:
+/home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/ext.rs:
+/home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/format.rs:
+/home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/ident_fragment.rs:
+/home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/to_tokens.rs:
+/home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/runtime.rs:
+/home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.16/src/spanned.rs:
